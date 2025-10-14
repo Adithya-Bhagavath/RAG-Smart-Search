@@ -1,0 +1,39 @@
+# --- Core Web Framework ---
+Flask[async]==2.3.3
+Werkzeug==2.3.7
+
+# --- Web Crawling & Parsing ---
+aiohttp==3.9.5
+async-timeout==4.0.3
+requests==2.31.0
+beautifulsoup4==4.12.3
+urllib3==2.2.3
+tqdm==4.66.4
+
+# --- Environment & Utilities ---
+python-dotenv==1.0.1
+nest-asyncio==1.6.0
+tenacity==8.2.3
+
+# --- AI / NLP Models ---
+sentence-transformers==2.2.2
+transformers==4.29.2
+torch==2.4.1
+numpy==1.26.4
+nltk==3.8.1
+
+# --- JSON & Data Handling ---
+pandas==2.2.1
+regex==2024.5.10
+
+# --- Safety & Encoding ---
+certifi==2024.7.4
+charset-normalizer==3.3.2
+idna==3.7
+
+# --- Logging & Debugging ---
+colorama==0.4.6
+
+# --- Optional Async/Deployment ---
+uvicorn==0.30.1
+gunicorn==22.0.0
