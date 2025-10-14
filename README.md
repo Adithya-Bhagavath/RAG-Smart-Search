@@ -232,6 +232,5 @@ You are free to use, modify, and distribute this project with attribution.
 
 ---
 
-## 💡 Credits
-Built with ❤️ by **Akshay LN**  
+## 💡 Credits  
 as part of the **Konduit SDE Intern Take-Home Assignment**.
