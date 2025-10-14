@@ -221,9 +221,8 @@ konduit-smart-search/
 ## 👨‍💻 Author
 **Akshay LN**  
 _MCA Student | AI & Full Stack Developer_  
-📧 [lnakshay385@gmail.com](mailto:your.email@example.com)  
-💼 [LinkedIn](https://linkedin.com/in/akshay-ln)  
-⭐ [GitHub](https://github.com/Akshay34-ux)
+📧 [adibhagavath03@gmail.com](mailto:your.email@example.com)    
+⭐ [GitHub](https://github.com/Adithya-Bhagavath)
 
 ---
 
