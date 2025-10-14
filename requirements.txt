@@ -18,7 +18,9 @@ tenacity==8.2.3
 # --- AI / NLP Models ---
 sentence-transformers==2.2.2
 transformers==4.29.2
-torch==2.4.1
+# PyTorch must be installed manually depending on your OS
+# For macOS (Apple Silicon): pip install torch torchvision torchaudio
+# For Windows/Linux (CPU only): pip install torch torchvision torchaudio --index-url https://dow
 numpy==1.26.4
 nltk==3.8.1
 
