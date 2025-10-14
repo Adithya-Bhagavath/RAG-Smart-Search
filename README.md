@@ -219,7 +219,7 @@ konduit-smart-search/
         └──────────────────────────────────────────────────┘
 
 ## 👨‍💻 Author
-**Akshay LN**  
+**Adithya Bhagavath**  
 _MCA Student | AI & Full Stack Developer_  
 📧 [adibhagavath03@gmail.com](mailto:your.email@example.com)    
 ⭐ [GitHub](https://github.com/Adithya-Bhagavath)
